@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on creating my first github repository and branch.
-- 🌱 I’m currently learning effectively working on github.
+- 🌱 I’m currently learning Java.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love dogs.
 
